@@ -8,6 +8,6 @@ hi大家好，我是unique2cxy，国内某银行技术部的一名数据分析�
 若感兴趣，欢迎大家关注我  
 知乎：https://www.zhihu.com/people/cxy-76-91/posts  
 CSDN：https://blog.csdn.net/cxy17017068?type=blog  
-GitHub：https://github.com/xiaoyuanchen?tab=repositories 
+GitHub：https://github.com/xiaoyuanchen
 
 欢迎大家的建议和问题！！！
